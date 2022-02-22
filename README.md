@@ -2,7 +2,7 @@
 
 A wordle solver using English letter frequencies and vowel concentration
 
-# How To Use:
+# How to use:
 
 There is no UI so you must manually enter the characters
 1. Enter the letters that are eliminated from your guess (Leave this empty on the first guess)
